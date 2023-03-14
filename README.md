@@ -7,7 +7,7 @@
 
 - Mi CV [https://cdn.discordapp.com/attachments/814509317394661378/1085296936661286942/CV_-_Akdel_Callejas_Amador.pdf](https://cdn.discordapp.com/attachments/814509317394661378/1085296936661286942/CV_-_Akdel_Callejas_Amador.pdf)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactame: **Akdiel.callejas21@gmail.com**</h3>
 <p align="left">
 </p>
 
