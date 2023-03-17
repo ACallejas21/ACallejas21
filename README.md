@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola!, soy Akdiel Callejas Amador</h1>
-<h3 align="center">Ingeniero en Ciencias de la Computación, enfocado al área del Font-end, me gusta el área de la programación y siempre estoy en busca de oportunidades para mejorar mi conocimiento.</h3>
+<h3 align="center">Ingeniero en Ciencias de la Computación, Desarrollador enfocado al área del Font-end, me gusta el área de la programación y siempre estoy en busca de oportunidades para mejorar mi conocimiento.</h3>
 
 - Actualmente Aprendiendo **ionic**
 
