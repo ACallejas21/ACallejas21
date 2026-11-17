@@ -15,6 +15,7 @@ Computer Science Engineer (Universidad Católica de Honduras, 2021) with **5 yea
 ## Featured work
 
 - **SFAC / Sunset** — POS + fiscal invoicing suite in production (65+ tables, 55+ stored procedures)
+- **Dogidex** — My own mobile app: point the camera at a dog and on-device AI identifies its breed, then registers it in your collection with rarity and a breed card — Pokédex-style. Works fully offline; Spanish and English
 - **LendLoop** — Next.js take-home project → https://github.com/ACallejas21/lendloop
 - **Portfolio** → https://acallejas21.github.io/
 
