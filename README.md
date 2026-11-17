@@ -19,9 +19,9 @@ Computer Science Engineer (Universidad Católica de Honduras, 2021) with **5 yea
 - **LendLoop** — Next.js take-home project → https://github.com/ACallejas21/lendloop
 - **Portfolio** → https://acallejas21.github.io/
 
-## Production client work
+## Projects I contributed to
 
-9 production websites for real-estate, construction, tourism and service companies in Honduras, built with React, Next.js and TypeScript — including interactive lot maps, 3D scenes, online payments, user authentication and multi-language support. I also built the admin panels and APIs behind them.
+These are client projects I **participated in** as a developer — my participation was real, but the work is not 100% mine. 9 production websites for real-estate, construction, tourism and service companies in Honduras, built with React, Next.js and TypeScript — including interactive lot maps, 3D scenes, online payments, user authentication and multi-language support. I also built admin panels and APIs that connect several of them.
 
 - **[Constructora Erazo](https://www.constructoraerazo.com)** — Corporate site for a construction company, bilingual. React, Vite, Tailwind, MUI, Redux Toolkit, Firebase, i18next
 - **[Servicios de Agua El Manantial](https://serviciosdeaguaelmanantial.com)** — Water utility & gardening services in Siguatepeque; contact form, carousels and animations. React, Vite, Tailwind, MUI, Framer Motion, Swiper, EmailJS, Firebase
